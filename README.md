@@ -24,9 +24,6 @@
   <a href="https://t.me/NaolUmer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo">
   </a>
-  <a href="https://www.facebook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo">
-  </a>
   <a href="mailto:naolumer3@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo">
   </a>
