@@ -1,13 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hi there 👋
+I'm Naol Umer, a full-stack developer who turns ☕ into code, specializing in Pythonic adventures and full-stack wizardry. 🚀
 
+🧑‍💻 Tech Stack: Reacting swiftly with React, styling boldly with Tailwind, and mastering the MERNiverse (MongoDB, Express, React, Node.js).<br>
 ###
-
-<p align="left">Hi there! I'm Naol Umer, a passionate Full-Stack Developer dedicated to crafting dynamic and scalable web applications.  <br><br>## 🌟 What I Do<br>- 💻 I specialize in building robust front-end interfaces with React and powerful back-end systems with Node.js and Express.<br>- 🛠️ I also have experience working with Flask and MongoDB.</p>
-
+🐍 Python enthusiast by day, bug exterminator by night.<br>
 ###
-
-<h2 align="left">About me</h2>
-
+🌱 Currently exploring the uncharted territories of scalable architectures and AI integrations.<br>
+###
+🛠️ Building cool stuff, one bug fix at a time.<br>
+###
+💡 Fun fact: My commit messages are as clean as my code (most of the time).<br>
+###
+📫 Let's collaborate and create something awesome together!<br>
 ###
 
 <p align="left">📚 I'm currently learning Typescript,Express</p>
