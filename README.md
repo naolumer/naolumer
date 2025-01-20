@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 💫 About Me:
+
 Hi there! I'm Naol, a passionate Full-Stack Developer dedicated to crafting dynamic and scalable web applications.<br>I specialize in building robust front-end interfaces with React and  powerful back-end systems with Node.js and Express.<br>- 🛠️ I also have experience working with Flask and MongoDB.
 
 
@@ -26,10 +26,7 @@ Hi there! I'm Naol, a passionate Full-Stack Developer dedicated to crafting dyna
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naolumer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=naolumer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
