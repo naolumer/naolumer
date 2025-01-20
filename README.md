@@ -18,14 +18,21 @@
 ###
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/naol-umer-021981299/?trk=opento_sprofile_goalscard" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-    
-  generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img href="t.me/NaolUmer" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img href="mailto:naolumer3@gmail.com" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img href="https://leetcode.com/u/naolumer/" src="https://iconscout.com/free-icon/leetcode-3521542" width="52" height="40" alt="gmail   
-   logo"  />
-  
+  <a href="https://www.linkedin.com/in/naol-umer-021981299/?trk=opento_sprofile_goalscard">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo">
+  </a>
+  <a href="https://t.me/NaolUmer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo">
+  </a>
+  <a href="https://www.facebook.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo">
+  </a>
+  <a href="mailto:naolumer3@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo">
+  </a>
+  <a href="https://leetcode.com/naolumer/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="LeetCode logo">
+  </a>
 </div>
 
 ###
