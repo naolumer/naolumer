@@ -2,9 +2,9 @@
   <h1>Hello there! <span>👋</span></h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand GIF" width="100" />
 </div>
-<h3>I'm Naol Umer, a full-stack developer who turns ☕ into code, specializing in Pythonic adventures and full-stack wizardry. 🚀</h3>
+<h3>I'm Naol Umer, a full-stack developer who turns ☕ into code</h3>
 
-🧑‍💻 Tech Stack: Reacting swiftly with React, styling boldly with Tailwind, and mastering the MERNiverse (MongoDB, Express, React, Node.js).<br>
+🧑‍💻 Tech Stack:  React, Tailwind, MongoDB, Express, Node.js, Next.Js,Python, Typescript<br>
 ###
 🐍 Python enthusiast by day, bug exterminator by night.<br>
 ###
