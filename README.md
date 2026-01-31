@@ -83,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="mui logo"  />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,fastapi,nextjs,prisma,redis,selenium&theme=dark&perline=15" alt="My Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,fastapi,prisma,redis&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 <br/>
 <br/>
