@@ -17,7 +17,7 @@
 📫 Let's collaborate and create something awesome together!<br>
 ###
 
-<p align="left">📚 I'm currently learning Nextjs</p>
+<p align="left">📚 I'm currently learning Go</p>
 
 ###
 
